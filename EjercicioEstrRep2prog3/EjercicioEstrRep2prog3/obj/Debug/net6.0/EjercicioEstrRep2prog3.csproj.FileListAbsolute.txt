@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\bin\Debug\net6.0\EjercicioEstrRep2prog3.exe
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\bin\Debug\net6.0\EjercicioEstrRep2prog3.deps.json
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\bin\Debug\net6.0\EjercicioEstrRep2prog3.runtimeconfig.json
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\bin\Debug\net6.0\EjercicioEstrRep2prog3.dll
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\bin\Debug\net6.0\EjercicioEstrRep2prog3.pdb
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.dll
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\refint\EjercicioEstrRep2prog3.dll
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.pdb
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\EjercicioEstrRep2prog3.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\EjercicioEstrRep2prog3\EjercicioEstrRep2prog3\obj\Debug\net6.0\ref\EjercicioEstrRep2prog3.dll
